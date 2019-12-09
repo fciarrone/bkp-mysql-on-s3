@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Backup MySQL databases with X days retention on S3 service AWS
+## Backup MySQL databases with X days retention on S3 storage
 ## Date 11/11/2019
 ## Created by Fabio Ciarrone
 
